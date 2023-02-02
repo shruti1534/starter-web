@@ -22,3 +22,4 @@ humour, or non-characteristic words etc.
 
 ## How to contribute
 https://gitlab.com/tekion/tkguardians/risingstar/shell_scripting_tutorial.git
+https://gitlab.com/tekion/tkguardians/risingstar/shell_scripting_tutorial.git
