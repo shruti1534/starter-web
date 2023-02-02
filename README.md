@@ -21,3 +21,4 @@ combined with a handful of model sentence structures, to generate Lorem Ipsum wh
 humour, or non-characteristic words etc.
 
 ## How to contribute
+https://gitlab.com/tekion/tkguardians/risingstar/shell_scripting_tutorial.git
